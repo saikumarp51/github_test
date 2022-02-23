@@ -8,4 +8,5 @@
 *apache-tomcat-8.5.75.tar.gz
 *jenkins.war
 !*mavensample
+*../github_token
 
